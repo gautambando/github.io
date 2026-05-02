@@ -1,0 +1,8 @@
+title: Gautam Bandyopadhyay
+description: Writing on AI-augmented product work, fintech, and information architecture.
+author: Gautam Bandyopadhyay
+theme: minima
+minima:
+  skin: dark
+show_excerpts: true
+permalink: /:year/:month/:day/:title/
